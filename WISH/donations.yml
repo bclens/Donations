@@ -77,7 +77,126 @@
   timestamp: 1628381160
   files:
     - WISH/20210808Akaraka-DBSReceipt.jpg
+    - WISH/20210808Akaraka-Confirmation.jpg
   announcement_url: https://blockchainlens.wordpress.com/2021/08/09/charity-donations-and-pool-updates/
   intermediate_txs:
     - provider: DBS
-      tx_id: IMBI332928xxxxC667499769166
+      tx_id: MBI33292819932L47
+
+- ticker: WISH
+  recipient: 
+    name: Akaraka Limited
+    address: 77 Robinson Road, #13-00, Robinson 77, Singapore 068896
+    tel: +65 9640 6890
+    contact: info@akaraka.org.sg
+  ada: 15.37
+  usd: 37.20 # 50 SGD donated
+  timestamp: 1631599320
+  files:
+    - WISH/20210914Akaraka-DBSReceipt.jpg
+    - WISH/20210914Akaraka-Confirmation.jpg
+  announcement_url: https://blockchainlens.wordpress.com/2021/09/16/smart-contracts-live-pool-updates/
+  intermediate_txs:
+    - provider: DBS
+      tx_id: MBI34557278854M34
+
+- ticker: WISH
+  recipient: 
+    name: Akaraka Limited
+    address: 77 Robinson Road, #13-00, Robinson 77, Singapore 068896
+    tel: +65 9640 6890
+    contact: info@akaraka.org.sg
+  ada: 16.80
+  usd: 36.90 # 50 SGD donated
+  timestamp: 1636380060
+  files:
+    - WISH/20211010Akaraka-DBSReceipt.png
+    - WISH/20211010Akaraka-Confirmation.png
+  announcement_url: https://blockchainlens.wordpress.com/2021/10/10/cardano-and-pool-updates/
+  intermediate_txs:
+    - provider: DBS
+      tx_id: MBI35561721664N21
+
+- ticker: WISH
+  recipient: 
+    name: Akaraka Limited
+    address: 77 Robinson Road, #13-00, Robinson 77, Singapore 068896
+    tel: +65 9640 6890
+    contact: info@akaraka.org.sg
+  ada: 16.29
+  usd: 37.05 # 50 SGD donated
+  timestamp: 1636380060
+  files:
+    - WISH/20211108Akaraka-DBSReceipt.png
+    - WISH/20211108Akaraka-Confirmation.png
+  announcement_url: https://blockchainlens.wordpress.com/2021/11/08/cardano-and-pool-updates-2/
+  intermediate_txs:
+    - provider: DBS
+      tx_id: MBI36821908718N96
+
+- ticker: WISH
+  recipient: 
+    name: Akaraka Limited
+    address: 77 Robinson Road, #13-00, Robinson 77, Singapore 068896
+    tel: +65 9640 6890
+    contact: info@akaraka.org.sg
+  ada: 29.92
+  usd: 36.65 # 50 SGD donated
+  timestamp: 1639092180
+  files:
+    - WISH/20211210Akaraka-DBSReceipt.jpg
+    - WISH/20211210Akaraka-Confirmation.jpg
+  announcement_url: https://blockchainlens.wordpress.com/2021/12/10/cardano-news-and-pool-updates/
+  intermediate_txs:
+    - provider: DBS
+      tx_id: MBI38231576101N66
+
+- ticker: WISH
+  recipient: 
+    name: Akaraka Limited
+    address: 77 Robinson Road, #13-00, Robinson 77, Singapore 068896
+    tel: +65 9640 6890
+    contact: info@akaraka.org.sg
+  ada: 28.18
+  usd: 36.75 # 50 SGD donated
+  timestamp: 1641649020
+  files:
+    - WISH/20220108Akaraka-DBSReceipt.jpg
+    - WISH/20220108Akaraka-Confirmation.jpg
+  announcement_url: https://blockchainlens.wordpress.com/2022/01/14/cardano-foundation-delegation-and-other-updates/
+  intermediate_txs:
+    - provider: DBS
+      tx_id: MBI39537895644N65
+
+- ticker: WISH
+  recipient: 
+    name: Akaraka Limited
+    address: 77 Robinson Road, #13-00, Robinson 77, Singapore 068896
+    tel: +65 9640 6890
+    contact: info@akaraka.org.sg
+  ada: 32.92
+  usd: 37.10 # 50 SGD donated
+  timestamp: 1643971380
+  files:
+    - WISH/20220204Akaraka-DBSReceipt.jpg
+    - WISH/20220204Akaraka-Confirmation.jpg
+  announcement_url: https://blockchainlens.wordpress.com/2022/02/04/wish-pool-featured-in-interview/
+  intermediate_txs:
+    - provider: DBS
+      tx_id: MBI40694894473M31
+
+- ticker: WISH
+  recipient: 
+    name: Committee for UNICEF Switzerland and Liechtenstein
+    address: Pfingstweidstrasse 10, 8005 Zurich
+    tel: +41 (0)44 317 22 66
+    contact: info@unicef.ch
+  ada: 81.73
+  usd: 73.80 # 100 SGD donated
+  timestamp: 1646211146
+  files:
+    - WISH/20220302UNICEF-Receipt.png
+  announcement_url: https://blockchainlens.wordpress.com/2022/03/03/helping-ukraine/
+  intermediate_txs:
+    - provider: Mastercard
+      tx_id: UNICEF 15892071
